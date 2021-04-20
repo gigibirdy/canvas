@@ -1,6 +1,3 @@
-**README.md**
-
-
 # Canvas
 ![shapes](./repo_img/shapes.png)
 
